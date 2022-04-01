@@ -1,7 +1,7 @@
 <img align="center" width="300" alt="image" src="https://user-images.githubusercontent.com/89921531/154576252-bfb6073d-6049-49d3-95de-1a7b5fa329aa.png">
 <br />
 <br />
-🔵 Tengo buen dominio de: HTML/CSS, Bootstrap, SASS, TailwindCSS, Javascript, JQuery.
+🔵 🚀 Tengo buen dominio de: HTML/CSS, Bootstrap, SASS, TailwindCSS, Javascript, JQuery y React JS.
 <br />
 <br />
 🟢 👯 Estoy buscando colaborar en proyectos utilizando ReactJS.
