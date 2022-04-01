@@ -34,6 +34,8 @@
 
 ### Enlaces directos a mis últimos proyectos:
 
-- [Space Tourism](https://space-tourismweb.netlify.app/)
-- [La Casa De Las Plantas Perú - Ecommerce](https://dalessandro07.github.io/e-commerce/)
-- [D'Color Website](https://dalessandro07.github.io/d-color/)
+- [Space Tourism](https://space-tourismweb.netlify.app/) 🚀
+
+- [La Casa De Las Plantas Perú - Ecommerce](https://dalessandro07.github.io/e-commerce/) 🪴
+
+- [D'Color Website](https://dalessandro07.github.io/d-color/) 🎨
