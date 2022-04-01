@@ -1,5 +1,4 @@
-<img align="center" width="300" alt="image" src="https://user-images.githubusercontent.com/89921531/154576252-bfb6073d-6049-49d3-95de-1a7b5fa329aa.png">
-<br />
+## ALESSANDRO RIOS | DESARROLLADOR WEB
 <br />
 🔵 🚀 Tengo buen dominio de: HTML/CSS, Bootstrap, SASS, TailwindCSS, Javascript, JQuery y React JS.
 <br />
@@ -15,6 +14,8 @@
 <br />
 ¡Estoy listo para afrontar cualquier desafío y empezar un proyecto, contáctame! 🤗
 
+<br />
+<br />
 
 ### Algunos lenguajes y Herramientas:
 
@@ -22,8 +23,17 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://www.atsistemas.com/dam/jcr:20b575da-1767-43dc-b18f-4f2a9f722877/1375-775-tailwind-css.png" />
+<img align="left" alt="Tailwind" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
+### Enlaces directos a mis últimos proyectos:
+
+- [Space Tourism](https://space-tourismweb.netlify.app/)
+- [La Casa De Las Plantas Perú - Ecommerce](https://dalessandro07.github.io/e-commerce/)
+- [D'Color Website](https://dalessandro07.github.io/d-color/)
