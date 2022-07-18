@@ -9,7 +9,7 @@
 🟡 💬 ¡Hazme cualquier consulta!
 <br />
 <br />
-🔴 ⚡ Tengo buenas prácticas de programación y me encanta la maquetación web.
+🔴 ⚡ Siempre estoy actualizándome y mejorando mis prácticas de programación.
 <br />
 <br />
 ¡Estoy listo para afrontar cualquier desafío y empezar un proyecto, contáctame! 🤗
@@ -36,6 +36,6 @@
 
 - [Space Tourism](https://space-tourismweb.netlify.app/) 🚀
 
-- [La Casa De Las Plantas Perú - Ecommerce](https://dalessandro07.github.io/e-commerce/) 🪴
+- [DrCafe - Ecommerce](https://drcafe.netlify.app/) ☕
 
 - [D'Color Website](https://dalessandro07.github.io/d-color/) 🎨
