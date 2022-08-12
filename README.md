@@ -1,4 +1,7 @@
-## ALESSANDRO RIOS | DESARROLLADOR WEB
+# Alessandro Rios
+
+![Main banner](./assets/banner.jpg)
+
 <br />
 🔵 🚀 Tengo buen dominio de: HTML/CSS, Bootstrap, SASS, TailwindCSS, Javascript, JQuery y React JS.
 <br />
