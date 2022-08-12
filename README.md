@@ -37,8 +37,8 @@
 
 ### Enlaces directos a mis últimos proyectos:
 
-- [Space Tourism](https://space-tourismweb.netlify.app/) 🚀
+- [AllExpenses App](https://allexpenses.netlify.app/) 🪙
 
 - [DrCafe - Ecommerce](https://drcafe.netlify.app/) ☕
 
-- [D'Color Website](https://dalessandro07.github.io/d-color/) 🎨
+- [Space Tourism](https://space-tourismweb.netlify.app/) 🚀
