@@ -3,7 +3,7 @@
 ![Main banner](./assets/banner.jpg)
 
 <br />
-🔵 🚀 Tengo buen dominio de: HTML/CSS, Bootstrap, SASS, TailwindCSS, Javascript, JQuery y React JS.
+🔵 🚀 Tengo buen dominio de: HTML/CSS, TailwindCSS, Javascript, React JS y Next JS.
 <br />
 <br />
 🟢 👯 Estoy buscando colaborar en proyectos utilizando ReactJS.
