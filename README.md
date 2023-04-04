@@ -1,6 +1,6 @@
 # Alessandro Rios
 
-![Main banner](./assets/banner.jpg)
+![Main banner](./assets/banner.png)
 
 <br />
 🔵 🚀 Tengo buen dominio de: HTML/CSS, TailwindCSS, Javascript, React JS y Next JS.
