@@ -3,10 +3,10 @@
 ![Main banner](./assets/banner.png)
 
 <br />
-🔵 🚀 Tengo buen dominio de: HTML/CSS, TailwindCSS, Javascript, React JS y Next JS.
+🔵 🚀 Tengo buen dominio de: HTML5/CSS3, TailwindCSS, Javascript, React JS y Next JS.
 <br />
 <br />
-🟢 👯 Estoy buscando colaborar en proyectos utilizando ReactJS.
+🟢 👯 Estoy buscando colaborar en proyectos utilizando React JS o Next JS.
 <br />
 <br />
 🟡 💬 ¡Hazme cualquier consulta!
@@ -32,6 +32,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
 <br />
 <br />
 
@@ -39,8 +40,11 @@
 
 - [Portafolio](https://alessandrorios.com)🌐
 
-- [AllExpenses App](https://allexpenses.netlify.app/) 🪙
+##### Comparte tus proyectos de programación.
+- [SkillSwapp](https://skillswapp.vercel.app/) 🚀
 
+##### E-commerce
 - [DrCafe - Ecommerce](https://drcafe.netlify.app/) ☕
 
-- [Space Tourism](https://space-tourismweb.netlify.app/) 🚀
+##### Maquetación web
+- [Space Tourism](https://space-tourismweb.netlify.app/) 👨🏼‍🚀
