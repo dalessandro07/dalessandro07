@@ -31,6 +31,8 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="NextJS" width="26px" src="https://github.com/dalessandro07/dalessandro07/assets/89921531/acca1771-4b63-4934-b42b-e037dbeb3c81" />
+
 
 
 <br />
@@ -48,3 +50,4 @@
 
 ##### Maquetación web
 - [Space Tourism](https://space-tourismweb.netlify.app/) 👨🏼‍🚀
+
