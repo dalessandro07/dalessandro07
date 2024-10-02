@@ -2,6 +2,11 @@
 
 ![Main banner](./assets/banner.png)
 
+<div> 
+<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dalessandro07&count_private=true&include_all_commits=true&show_icons=true&theme=transparent' width='380'/> 
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=dalessandro07&theme=transparent' width='400'>
+ </div>
+
 <br />
 🔵 🚀 Tengo buen dominio de: HTML5/CSS3, TailwindCSS, Javascript, React JS y Next JS.
 <br />
