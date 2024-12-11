@@ -47,12 +47,10 @@
 
 - [Portafolio](https://alessandrorios.com)🌐
 
-##### Comparte tus proyectos de programación.
-- [SkillSwapp](https://skillswapp.vercel.app/) 🚀
+##### Vende en línea.
+- [Darmaes](https://darmaes.vercel.app/) 🚀
 
 ##### E-commerce
 - [DrCafe - Ecommerce](https://drcafe.netlify.app/) ☕
-
-##### Maquetación web
-- [Space Tourism](https://space-tourismweb.netlify.app/) 👨🏼‍🚀
+- [ShawarmaDubaiLima](https://shawarmadubailima.com/) 🍔
 
